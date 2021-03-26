@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Go to the Support Web Site](https://support.west-wind.com)
