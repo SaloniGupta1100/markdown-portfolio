@@ -1,1 +1,1 @@
-[Go to the Support Web Site](https://support.west-wind.com)
+[GitHub](http://github.com)
